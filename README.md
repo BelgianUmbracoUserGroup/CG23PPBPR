@@ -10,3 +10,6 @@ If a certain beer is already in the list, feel free to just add your name behind
 
 ### Request List
 Kwak amber - [Sven](https://twitter.com/migaroez)
+
+### Confirmed List
+2 x each https://www.batteliek.be/en/drinks canned beers
