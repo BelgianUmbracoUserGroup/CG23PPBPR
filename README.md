@@ -8,5 +8,5 @@ If you want to contribute some cans/bottles to the drinks pull request (DPR) you
 If you want us to bring a certain belgian beer you have been wanting to try, now is the time to make your dreams come true. Make a PR adding a line (or more) to the list below and we will try our best to please as many people as possible. Please, only make a PR if you are planning to attend the preparty.
 If a certain beer is already in the list, feel free to just add your name behind the line.
 
-### List
+### Request List
 Kwak amber - [Sven](https://twitter.com/dampeebe)
