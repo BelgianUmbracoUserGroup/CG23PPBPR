@@ -9,7 +9,10 @@ If you want us to bring a certain belgian beer you have been wanting to try, now
 If a certain beer is already in the list, feel free to just add your name behind the line.
 
 ### Request List
-Kwak amber - [Sven](https://twitter.com/migaroez)
+* Kwak amber - [Sven](https://twitter.com/migaroez)
+* Tripel d'Anvers - [Damiaan](https://twitter.com/dampeebe)
 
 ### Confirmed List
-2 x each https://www.batteliek.be/en/drinks canned beers
+* 2 x each https://www.batteliek.be/en/drinks canned beers
+
+
