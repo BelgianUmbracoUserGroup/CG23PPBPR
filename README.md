@@ -12,6 +12,7 @@ If a certain beer is already in the list, feel free to just add your name behind
 * Kwak amber - [Sven](https://twitter.com/migaroez), [Jason](https://twitter.com/jasonelkin86)
 * Tripel d'Anvers - [Damiaan](https://twitter.com/dampeebe)
 * Oude Gueuze (.+) - [Jason](https://twitter.com/jasonelkin86)
+* De Koninck Bolleke - [marcemarc](https://twitter.com/marcemarc)
 
 ### Confirmed List
 * 2 x each https://www.batteliek.be/en/drinks canned beers
