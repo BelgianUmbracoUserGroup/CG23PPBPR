@@ -16,6 +16,6 @@ If a certain beer is already in the list, feel free to just add your name behind
 
 ### Confirmed List
 * 2 x each https://www.batteliek.be/en/drinks canned beers
-* 6 x [West Vleteren 8](https://www.trappistwestvleteren.be/nl/onze-bieren/trappist-westvleteren-12)
+* 6 x [West Vleteren 12](https://www.trappistwestvleteren.be/nl/onze-bieren/trappist-westvleteren-12)
 
 
