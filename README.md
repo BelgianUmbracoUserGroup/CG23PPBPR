@@ -13,6 +13,7 @@ If a certain beer is already in the list, feel free to just add your name behind
 * Tripel d'Anvers - [Damiaan](https://twitter.com/dampeebe)
 * Oude Gueuze (.+) - [Jason](https://twitter.com/jasonelkin86)
 * De Koninck Bolleke - [marcemarc](https://twitter.com/marcemarc)
+* XX Bitter - [Sebastiaan](https://elk.zone/cultiv.social/@sebastiaan)
 
 ### Confirmed List
 * 2 x each https://www.batteliek.be/en/drinks canned beers
