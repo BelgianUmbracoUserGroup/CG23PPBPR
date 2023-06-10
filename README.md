@@ -9,7 +9,7 @@ If you want us to bring a certain belgian beer you have been wanting to try, now
 If a certain beer is already in the list, feel free to just add your name behind the line.
 
 ### Request List
-requests are closed !
+Requests are closed !
 
 ### Confirmed List
 * 2 x each https://www.batteliek.be/en/drinks canned beers
@@ -21,7 +21,6 @@ requests are closed !
 * De Koninck Bolleke - [marcemarc](https://twitter.com/marcemarc)
 * XX Bitter - [Sebastiaan](https://elk.zone/cultiv.social/@sebastiaan)
 
-Here is some of the PR traveling to codegarden in two days:
+Here are some of the PR traveling to codegarden in two days:
 ![IMG20230610094801](https://github.com/BelgianUmbracoUserGroup/CG23PPBPR/assets/1857460/2becc7d1-6aa3-4939-8f9b-10dbc152eb88)
 ![IMG20230610093608](https://github.com/BelgianUmbracoUserGroup/CG23PPBPR/assets/1857460/2f59de36-b885-4f9e-aa49-e5557766387e)
-
